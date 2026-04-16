@@ -1,6 +1,7 @@
 ✈️ INDIGO FLIGHT DELAY & TRAFFIC ANALYSIS (SQL) 
 
-📌 Project Overview
+📌 Project Overview:-
+
 This project focuses on analyzing flight data to identify traffic patterns, passenger distribution, and the correlation between city population and air traffic. The analysis is built upon a comprehensive master dataset, which was transformed into a structured relational database for deeper insights.
 
 📂 Data Source (The Master Table)
